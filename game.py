@@ -1,5 +1,6 @@
 #tic-tac-toe game.
 #autor Kenny Castillo.
+#week 02
 
 from colorama import init,Fore,Back,Style
 
